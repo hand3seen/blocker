@@ -1,5 +1,5 @@
  function setup() {
-  createCanvas(3000, 3000);
+  createCanvas(1000, 1000);
     noLoop();
   colorMode(HSB);
 }
